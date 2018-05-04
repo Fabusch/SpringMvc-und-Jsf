@@ -4,6 +4,7 @@ import java.util.Random;
 
 public class KI extends Spieler {
 	int Schwierigkeit;
+	int trst;
 	
 	public KI(String Name,int Schwierigkeit,char Zeichen) {
 		this.Zeichen = Zeichen;
