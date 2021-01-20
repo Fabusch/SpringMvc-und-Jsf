@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-16T11:40:00 MEZ" name="Default suite" finished-at="2020-12-16T11:40:53 MEZ" duration-ms="53619">
+    <groups>
+    </groups>
+    <test started-at="2020-12-16T11:40:00 MEZ" name="Default test" finished-at="2020-12-16T11:40:53 MEZ" duration-ms="53619">
+      <class name="Seleniumtesting">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Seleniumtesting@5cbe877d]" started-at="2020-12-16T11:40:00 MEZ" name="setUp" finished-at="2020-12-16T11:40:11 MEZ" duration-ms="10760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="textChangeName()[pri:0, instance:Seleniumtesting@5cbe877d]" started-at="2020-12-16T11:40:11 MEZ" name="textChangeName" finished-at="2020-12-16T11:40:30 MEZ" duration-ms="19107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textChangeName -->
+        <test-method signature="newItem()[pri:0, instance:Seleniumtesting@5cbe877d]" started-at="2020-12-16T11:40:30 MEZ" name="newItem" finished-at="2020-12-16T11:40:45 MEZ" duration-ms="15669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newItem -->
+        <test-method is-config="true" signature="afterTest1()[pri:0, instance:Seleniumtesting@5cbe877d]" started-at="2020-12-16T11:40:45 MEZ" name="afterTest1" finished-at="2020-12-16T11:40:53 MEZ" duration-ms="8053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest1 -->
+      </class> <!-- Seleniumtesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
